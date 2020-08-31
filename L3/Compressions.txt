@@ -1,0 +1,4 @@
+﻿Archivo Prueba.txt, asdf.huff, 0.8431061806656102, 1.1860902255639099, 15.68938193343898, Huffman.
+Tips Lab1 EDII.txt, thisIsMyProof.huff, 0.9625151148730351, 1.0389447236180904, 3.748488512696497, Huffman.
+Integrantes Lab grupo 6.txt, thisIsMyProof.huff, 1.6149732620320856, 0.6192052980132451, -61.49732620320856, Huffman.
+Capítulos.txt, Sevchenko.lzw, 2.5, 0.4, -150, LZW.
